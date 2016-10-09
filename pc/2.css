@@ -1,0 +1,103 @@
+.list{
+    height: 46px;
+    line-height: 46px;
+    background: #22ac38;
+}
+.c{
+    width: 1190px;
+    margin: 0 auto;
+}
+.c a{
+    display: inline-block;
+    font-size: 16px;
+    padding: 0 30px;
+    color: #fff;
+}
+.c a:hover{
+    color:#fff;
+    background:#179500;
+}
+.d{
+    text-decoration: none;
+    background: #179500;
+    color: #fff;
+}
+.f{
+    float:right;
+}
+.area-top{
+    width: 1190px;
+    height:413px;
+    margin:0 auto;
+}
+.top-left{
+    width: 294px;
+    height: 399px;
+    padding: 10px 0 0 22px;
+    background: #fff;
+    border: 2px solid #e7e7e7;
+    outline: 0;
+    float:left;
+}
+.title{
+    height: 35px;
+    line-height: 35px;
+    font-size: 16px;
+    color: #000;
+    border-bottom: 1px solid #e7e7e7;
+}
+.left_top_tit1{
+    color:#ff7e00;
+}
+.title span{
+    color: #999;
+    font-size: 12px;
+    /*margin-left: 5px;*/
+}
+.title span .f{
+    /*color: #ff7e00;
+    margin-left: 5px;
+    font-style: normal;*/
+}
+.title span .g{
+   /* color: #22ac38;
+    font-style: normal;*/
+}
+.sell-box{
+    padding-bottom: 15px;
+    padding-top: 15px;
+    height: 36px;
+
+}
+.sell-number{
+    float: left;
+    font-size: 14px;
+    width: 150px;
+    height: 18px;
+    line-height: 18px;
+    padding: 8px 10px;
+    border: 1px solid #e7e7e7;
+    border-radius: 5px;
+    color: #a7b6c4;
+}
+.sell-search{
+    width: 98px;
+    height: 36px;
+    background: #22ac38;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    margin-left: 5px;
+}
+.buy-car{
+    height: 35px;
+    line-height: 35px;
+    font-size: 16px;
+    color: #000;
+    border-bottom: 1px solid #e7e7e7;
+}
+.buy-car span{
+    font-size: 12px;
+    color: #a7b6c4;
+    margin-left:5px ;
+}
